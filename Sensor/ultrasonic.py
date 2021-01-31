@@ -1,3 +1,7 @@
+"""
+超声波测距基础实现
+"""
+
 import RPi.GPIO as GPIO     # 导入GPIO模块
 import time                 # 导入系统time模块
 

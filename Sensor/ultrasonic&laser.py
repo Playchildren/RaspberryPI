@@ -1,3 +1,7 @@
+"""
+结合超声波和激光模块, 距离越近, 激光闪烁频率越高, 反之亦然
+"""
+
 import RPi.GPIO as GPIO
 import time
 

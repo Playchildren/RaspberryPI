@@ -1,3 +1,6 @@
+"""
+以固定频率闪烁激光
+"""
 import RPi.GPIO as GPIO
 import time
 

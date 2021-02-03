@@ -1,6 +1,6 @@
 # RaspberryPI
 
-![](https://github.com/Playchildren/RaspberryPI/raw/master/GPIO struction.png)
+![](https://github.com/Playchildren/RaspberryPI/blob/main/GPIO%20structure.png)
 
 #### How to use Pycharm on Desktop to check code on RaspberryPi
 -------------------------------------------------------------------

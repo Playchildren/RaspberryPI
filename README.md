@@ -1,4 +1,7 @@
 # RaspberryPI
+
+![](https://github.com/Playchildren/RaspberryPI/raw/master/GPIO struction.png)
+
 #### How to use Pycharm on Desktop to check code on RaspberryPi
 -------------------------------------------------------------------
 ##### If you write code on pycharm_desktop usually,

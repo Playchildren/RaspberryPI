@@ -1,7 +1,7 @@
 # RaspberryPI
-
+#### Pin diagram of Raspberry Pi
 ![](https://github.com/Playchildren/RaspberryPI/blob/main/GPIO%20structure.png)
-
+-------------------------------------------------------------------
 #### How to use Pycharm on Desktop to check code on RaspberryPi
 -------------------------------------------------------------------
 ##### If you write code on pycharm_desktop usually,

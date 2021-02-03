@@ -1,6 +1,6 @@
 # RaspberryPI
-It contains my resource about RaspberryPi
 #### How to use Pycharm on Desktop to check code on RaspberryPi
+-------------------------------------------------------------------
 ##### Because i write code on pycharm which run on my desktop usually,
 ##### so when the incorrect hints bother me very much.
 ##### To solve this problem, we can install 'RPi.GPIO-def' to avoid it.
